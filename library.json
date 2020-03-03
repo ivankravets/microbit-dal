@@ -1,6 +1,6 @@
 {
     "name": "microbit-dal",
-    "version": "2.0.0-rc4.build5",
+    "version": "2.0.0-rc4.build6",
     "keywords": "microbit, framework, bbc",
     "description": "The core set of drivers, mechanisms and types that make up the micro:bit runtime.",
     "authors": {
@@ -16,7 +16,7 @@
     "dependencies": {
         "ble": "https://github.com/lancaster-university/BLE_API#v2.5.0+mb3",
         "ble-nrf51822": "https://github.com/ivankravets/nRF51822.git",
-        "nrf51-sdk": "https://github.comp/alfrey/nrf51-sdk#platformio-3.0"
+        "nrf51-sdk": "https://github.com/alfrey/nrf51-sdk#platformio-3.0"
     },
     "build":
     {
